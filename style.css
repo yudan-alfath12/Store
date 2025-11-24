@@ -72,10 +72,11 @@ ul {
  list-style: none;
  display: flex;
  gap: 20px;
- color: #eee;
+ color: #f2f4f2;
 }
 nav { 
-    background-color:black;
+    background-color: #22C1C3;
+background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(253, 187, 45, 1) 100%);
     padding: 10px;
     position: fixed;
     width: 100%;
